@@ -12,4 +12,4 @@ Welcome to my repository for Programming Fundamentals Lab 03.
 * Artificial Intelligence
 * Coding
 
-***I am an AI student passionate about learning core programming conceot.***
+***I am an AI student passionate about learning core programming concept.***
